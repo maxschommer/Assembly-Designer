@@ -1,0 +1,11 @@
+C:\Users\mschommer\Documents\Github\Assembly-Designer\ObjectSnap\ObjectSnap\bin\Debug\ObjectSnap.exe.config
+C:\Users\mschommer\Documents\Github\Assembly-Designer\ObjectSnap\ObjectSnap\bin\Debug\ObjectSnap.exe
+C:\Users\mschommer\Documents\Github\Assembly-Designer\ObjectSnap\ObjectSnap\bin\Debug\ObjectSnap.pdb
+C:\Users\mschommer\Documents\Github\Assembly-Designer\ObjectSnap\ObjectSnap\obj\Debug\ObjectSnap.csprojResolveAssemblyReference.cache
+C:\Users\mschommer\Documents\Github\Assembly-Designer\ObjectSnap\ObjectSnap\obj\Debug\ObjectSnap.csproj.CoreCompileInputs.cache
+C:\Users\mschommer\Documents\Github\Assembly-Designer\ObjectSnap\ObjectSnap\obj\Debug\ObjectSnap.exe
+C:\Users\mschommer\Documents\Github\Assembly-Designer\ObjectSnap\ObjectSnap\obj\Debug\ObjectSnap.pdb
+C:\Users\mschommer\Documents\Github\Assembly-Designer\ObjectSnap\ObjectSnap\bin\Debug\alglibnet2.dll
+C:\Users\mschommer\Documents\Github\Assembly-Designer\ObjectSnap\ObjectSnap\obj\Debug\ObjectSnap.csproj.CopyComplete
+C:\Users\mschommer\Documents\Github\Assembly-Designer\ObjectSnap\ObjectSnap\bin\Debug\COLLADA.dll
+C:\Users\mschommer\Documents\Github\Assembly-Designer\ObjectSnap\ObjectSnap\bin\Debug\COLLADA.pdb

@@ -1,0 +1,5 @@
+C:\Users\mschommer\Documents\Github\Assembly-Designer\ObjectSnap\COLLADA\bin\Debug\COLLADA.dll
+C:\Users\mschommer\Documents\Github\Assembly-Designer\ObjectSnap\COLLADA\bin\Debug\COLLADA.pdb
+C:\Users\mschommer\Documents\Github\Assembly-Designer\ObjectSnap\COLLADA\obj\Debug\Collada141.csproj.CoreCompileInputs.cache
+C:\Users\mschommer\Documents\Github\Assembly-Designer\ObjectSnap\COLLADA\obj\Debug\COLLADA.dll
+C:\Users\mschommer\Documents\Github\Assembly-Designer\ObjectSnap\COLLADA\obj\Debug\COLLADA.pdb
