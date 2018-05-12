@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAD Assembly", "CAD Assembly.csproj", "{1C761AE9-10C7-C983-1446-A481CA2B4872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAD Assembly.Editor", "CAD Assembly.Editor.csproj", "{B537E001-C7E9-0372-6EAF-10A80DE03225}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C761AE9-10C7-C983-1446-A481CA2B4872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C761AE9-10C7-C983-1446-A481CA2B4872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C761AE9-10C7-C983-1446-A481CA2B4872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C761AE9-10C7-C983-1446-A481CA2B4872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B537E001-C7E9-0372-6EAF-10A80DE03225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B537E001-C7E9-0372-6EAF-10A80DE03225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B537E001-C7E9-0372-6EAF-10A80DE03225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B537E001-C7E9-0372-6EAF-10A80DE03225}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

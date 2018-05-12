@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: 2bbb69c8296553042ab1f3b4242440b1
+timeCreated: 1526088210
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: ' 10'
+    100004: ' 11'
+    100006: ' 12'
+    100008: ' 13'
+    100010: ' 14'
+    100012: ' 15'
+    100014: ' 16'
+    100016: ' 17'
+    100018: ' 18'
+    100020: ' 19'
+    100022: ' 2'
+    100024: ' 20'
+    100026: ' 21'
+    100028: ' 22'
+    100030: ' 23'
+    100032: ' 24'
+    100034: ' 25'
+    100036: ' 26'
+    100038: ' 27'
+    100040: ' 28'
+    100042: ' 29'
+    100044: ' 3'
+    100046: ' 30'
+    100048: ' 31'
+    100050: ' 32'
+    100052: ' 33'
+    100054: ' 34'
+    100056: ' 35'
+    100058: ' 36'
+    100060: ' 37'
+    100062: ' 38'
+    100064: ' 39'
+    100066: ' 4'
+    100068: ' 40'
+    100070: ' 41'
+    100072: ' 42'
+    100074: ' 43'
+    100076: ' 44'
+    100078: ' 45'
+    100080: ' 46'
+    100082: ' 47'
+    100084: ' 48'
+    100086: ' 49'
+    100088: ' 5'
+    100090: ' 50'
+    100092: ' 51'
+    100094: ' 6'
+    100096: ' 7'
+    100098: ' 8'
+    100100: ' 9'
+    100102: 6mmBearing
+    100104: 6mmBearing 1
+    100106: BackSupport
+    100108: BearingRetainingRing
+    100110: Chisel
+    100112: ChiselBearingSupport
+    100114: ChiselOscillator
+    100116: ChiselPinSmallRR
+    100118: ChiselShaftMount
+    100120: FrontSupport
+    100122: HeadedPin
+    100124: Hex socket head cap screw ISO 4762
+    100126: Hex socket head cap screw ISO 4762 1
+    100128: Hex socket head cap screw ISO 4762 10
+    100130: Hex socket head cap screw ISO 4762 11
+    100132: Hex socket head cap screw ISO 4762 12
+    100134: Hex socket head cap screw ISO 4762 13
+    100136: Hex socket head cap screw ISO 4762 14
+    100138: Hex socket head cap screw ISO 4762 15
+    100140: Hex socket head cap screw ISO 4762 16
+    100142: Hex socket head cap screw ISO 4762 17
+    100144: Hex socket head cap screw ISO 4762 18
+    100146: Hex socket head cap screw ISO 4762 19
+    100148: Hex socket head cap screw ISO 4762 2
+    100150: Hex socket head cap screw ISO 4762 20
+    100152: Hex socket head cap screw ISO 4762 21
+    100154: Hex socket head cap screw ISO 4762 22
+    100156: Hex socket head cap screw ISO 4762 23
+    100158: Hex socket head cap screw ISO 4762 24
+    100160: Hex socket head cap screw ISO 4762 25
+    100162: Hex socket head cap screw ISO 4762 26
+    100164: Hex socket head cap screw ISO 4762 27
+    100166: Hex socket head cap screw ISO 4762 28
+    100168: Hex socket head cap screw ISO 4762 3
+    100170: Hex socket head cap screw ISO 4762 4
+    100172: Hex socket head cap screw ISO 4762 5
+    100174: Hex socket head cap screw ISO 4762 6
+    100176: Hex socket head cap screw ISO 4762 7
+    100178: Hex socket head cap screw ISO 4762 8
+    100180: Hex socket head cap screw ISO 4762 9
+    100182: //RootNode
+    100184: Motor
+    100186: MotorBearing
+    100188: MotorMount
+    100190: MotorShaftMount
+    100192: MountingPlate
+    100194: ShellLower
+    100196: ShellUpper
+    100198: SleeveBearingLarge
+    100200: SleeveBearingSmall
+    100202: SleeveBearingSmall 1
+    100204: Spacer
+    400000: ' 1'
+    400002: ' 10'
+    400004: ' 11'
+    400006: ' 12'
+    400008: ' 13'
+    400010: ' 14'
+    400012: ' 15'
+    400014: ' 16'
+    400016: ' 17'
+    400018: ' 18'
+    400020: ' 19'
+    400022: ' 2'
+    400024: ' 20'
+    400026: ' 21'
+    400028: ' 22'
+    400030: ' 23'
+    400032: ' 24'
+    400034: ' 25'
+    400036: ' 26'
+    400038: ' 27'
+    400040: ' 28'
+    400042: ' 29'
+    400044: ' 3'
+    400046: ' 30'
+    400048: ' 31'
+    400050: ' 32'
+    400052: ' 33'
+    400054: ' 34'
+    400056: ' 35'
+    400058: ' 36'
+    400060: ' 37'
+    400062: ' 38'
+    400064: ' 39'
+    400066: ' 4'
+    400068: ' 40'
+    400070: ' 41'
+    400072: ' 42'
+    400074: ' 43'
+    400076: ' 44'
+    400078: ' 45'
+    400080: ' 46'
+    400082: ' 47'
+    400084: ' 48'
+    400086: ' 49'
+    400088: ' 5'
+    400090: ' 50'
+    400092: ' 51'
+    400094: ' 6'
+    400096: ' 7'
+    400098: ' 8'
+    400100: ' 9'
+    400102: 6mmBearing
+    400104: 6mmBearing 1
+    400106: BackSupport
+    400108: BearingRetainingRing
+    400110: Chisel
+    400112: ChiselBearingSupport
+    400114: ChiselOscillator
+    400116: ChiselPinSmallRR
+    400118: ChiselShaftMount
+    400120: FrontSupport
+    400122: HeadedPin
+    400124: Hex socket head cap screw ISO 4762
+    400126: Hex socket head cap screw ISO 4762 1
+    400128: Hex socket head cap screw ISO 4762 10
+    400130: Hex socket head cap screw ISO 4762 11
+    400132: Hex socket head cap screw ISO 4762 12
+    400134: Hex socket head cap screw ISO 4762 13
+    400136: Hex socket head cap screw ISO 4762 14
+    400138: Hex socket head cap screw ISO 4762 15
+    400140: Hex socket head cap screw ISO 4762 16
+    400142: Hex socket head cap screw ISO 4762 17
+    400144: Hex socket head cap screw ISO 4762 18
+    400146: Hex socket head cap screw ISO 4762 19
+    400148: Hex socket head cap screw ISO 4762 2
+    400150: Hex socket head cap screw ISO 4762 20
+    400152: Hex socket head cap screw ISO 4762 21
+    400154: Hex socket head cap screw ISO 4762 22
+    400156: Hex socket head cap screw ISO 4762 23
+    400158: Hex socket head cap screw ISO 4762 24
+    400160: Hex socket head cap screw ISO 4762 25
+    400162: Hex socket head cap screw ISO 4762 26
+    400164: Hex socket head cap screw ISO 4762 27
+    400166: Hex socket head cap screw ISO 4762 28
+    400168: Hex socket head cap screw ISO 4762 3
+    400170: Hex socket head cap screw ISO 4762 4
+    400172: Hex socket head cap screw ISO 4762 5
+    400174: Hex socket head cap screw ISO 4762 6
+    400176: Hex socket head cap screw ISO 4762 7
+    400178: Hex socket head cap screw ISO 4762 8
+    400180: Hex socket head cap screw ISO 4762 9
+    400182: //RootNode
+    400184: Motor
+    400186: MotorBearing
+    400188: MotorMount
+    400190: MotorShaftMount
+    400192: MountingPlate
+    400194: ShellLower
+    400196: ShellUpper
+    400198: SleeveBearingLarge
+    400200: SleeveBearingSmall
+    400202: SleeveBearingSmall 1
+    400204: Spacer
+    2100000: ID11
+    2100002: ID34
+    2100004: ID50
+    2300000: 6mmBearing
+    2300002: 6mmBearing 1
+    2300004: BackSupport
+    2300006: BearingRetainingRing
+    2300008: Chisel
+    2300010: ChiselBearingSupport
+    2300012: ChiselOscillator
+    2300014: ChiselPinSmallRR
+    2300016: ChiselShaftMount
+    2300018: FrontSupport
+    2300020: HeadedPin
+    2300022: Hex socket head cap screw ISO 4762
+    2300024: Hex socket head cap screw ISO 4762 1
+    2300026: Hex socket head cap screw ISO 4762 10
+    2300028: Hex socket head cap screw ISO 4762 11
+    2300030: Hex socket head cap screw ISO 4762 12
+    2300032: Hex socket head cap screw ISO 4762 13
+    2300034: Hex socket head cap screw ISO 4762 14
+    2300036: Hex socket head cap screw ISO 4762 15
+    2300038: Hex socket head cap screw ISO 4762 16
+    2300040: Hex socket head cap screw ISO 4762 17
+    2300042: Hex socket head cap screw ISO 4762 18
+    2300044: Hex socket head cap screw ISO 4762 19
+    2300046: Hex socket head cap screw ISO 4762 2
+    2300048: Hex socket head cap screw ISO 4762 20
+    2300050: Hex socket head cap screw ISO 4762 21
+    2300052: Hex socket head cap screw ISO 4762 22
+    2300054: Hex socket head cap screw ISO 4762 23
+    2300056: Hex socket head cap screw ISO 4762 24
+    2300058: Hex socket head cap screw ISO 4762 25
+    2300060: Hex socket head cap screw ISO 4762 26
+    2300062: Hex socket head cap screw ISO 4762 27
+    2300064: Hex socket head cap screw ISO 4762 28
+    2300066: Hex socket head cap screw ISO 4762 3
+    2300068: Hex socket head cap screw ISO 4762 4
+    2300070: Hex socket head cap screw ISO 4762 5
+    2300072: Hex socket head cap screw ISO 4762 6
+    2300074: Hex socket head cap screw ISO 4762 7
+    2300076: Hex socket head cap screw ISO 4762 8
+    2300078: Hex socket head cap screw ISO 4762 9
+    2300080: Motor
+    2300082: MotorBearing
+    2300084: MotorMount
+    2300086: MotorShaftMount
+    2300088: MountingPlate
+    2300090: ShellLower
+    2300092: ShellUpper
+    2300094: SleeveBearingLarge
+    2300096: SleeveBearingSmall
+    2300098: SleeveBearingSmall 1
+    2300100: Spacer
+    3300000: 6mmBearing
+    3300002: 6mmBearing 1
+    3300004: BackSupport
+    3300006: BearingRetainingRing
+    3300008: Chisel
+    3300010: ChiselBearingSupport
+    3300012: ChiselOscillator
+    3300014: ChiselPinSmallRR
+    3300016: ChiselShaftMount
+    3300018: FrontSupport
+    3300020: HeadedPin
+    3300022: Hex socket head cap screw ISO 4762
+    3300024: Hex socket head cap screw ISO 4762 1
+    3300026: Hex socket head cap screw ISO 4762 10
+    3300028: Hex socket head cap screw ISO 4762 11
+    3300030: Hex socket head cap screw ISO 4762 12
+    3300032: Hex socket head cap screw ISO 4762 13
+    3300034: Hex socket head cap screw ISO 4762 14
+    3300036: Hex socket head cap screw ISO 4762 15
+    3300038: Hex socket head cap screw ISO 4762 16
+    3300040: Hex socket head cap screw ISO 4762 17
+    3300042: Hex socket head cap screw ISO 4762 18
+    3300044: Hex socket head cap screw ISO 4762 19
+    3300046: Hex socket head cap screw ISO 4762 2
+    3300048: Hex socket head cap screw ISO 4762 20
+    3300050: Hex socket head cap screw ISO 4762 21
+    3300052: Hex socket head cap screw ISO 4762 22
+    3300054: Hex socket head cap screw ISO 4762 23
+    3300056: Hex socket head cap screw ISO 4762 24
+    3300058: Hex socket head cap screw ISO 4762 25
+    3300060: Hex socket head cap screw ISO 4762 26
+    3300062: Hex socket head cap screw ISO 4762 27
+    3300064: Hex socket head cap screw ISO 4762 28
+    3300066: Hex socket head cap screw ISO 4762 3
+    3300068: Hex socket head cap screw ISO 4762 4
+    3300070: Hex socket head cap screw ISO 4762 5
+    3300072: Hex socket head cap screw ISO 4762 6
+    3300074: Hex socket head cap screw ISO 4762 7
+    3300076: Hex socket head cap screw ISO 4762 8
+    3300078: Hex socket head cap screw ISO 4762 9
+    3300080: Motor
+    3300082: MotorBearing
+    3300084: MotorMount
+    3300086: MotorShaftMount
+    3300088: MountingPlate
+    3300090: ShellLower
+    3300092: ShellUpper
+    3300094: SleeveBearingLarge
+    3300096: SleeveBearingSmall
+    3300098: SleeveBearingSmall 1
+    3300100: Spacer
+    4300000: HeadedPin
+    4300002: BearingRetainingRing
+    4300004: ChiselPinSmallRR
+    4300006: Hex socket head cap screw ISO 4762
+    4300008: Hex socket head cap screw ISO 4762
+    4300010: ShellLower
+    4300012: Hex socket head cap screw ISO 4762
+    4300014: Hex socket head cap screw ISO 4762
+    4300016: MountingPlate
+    4300018: SleeveBearingSmall
+    4300020: ShellUpper
+    4300022: 6mmBearing
+    4300024: Spacer
+    4300026: FrontSupport
+    4300028: BackSupport
+    4300030: ChiselShaftMount
+    4300032: SleeveBearingLarge
+    4300034: Chisel
+    4300036: ChiselOscillator
+    4300038: ChiselBearingSupport
+    4300040: MotorMount
+    4300042: MotorBearing
+    4300044: MotorShaftMount
+    4300046: Motor
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.4
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
