@@ -5,11 +5,7 @@ using UnityEngine.UI;
 using System;
 using System.Linq;
 using System.Text;
-using Jitter.LinearMath;
-using Jitter.Collision;
-using Jitter;
-using Jitter.Dynamics;
-using Jitter.Collision.Shapes;
+
 
 
 namespace zSpace.Core

@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class Reference : MonoBehaviour
 {
-    private GameObject ghostObject = null;
+    public GameObject ghostObject = null;
+    public Vector3 positionDefault = new Vector3();
+    public Quaternion rotationDefault = new Quaternion();
     private bool isGhost = false;
     public bool isAssemblyPart = true; // Should maybe be private?
 
@@ -15,12 +17,13 @@ public class Reference : MonoBehaviour
         {
             // Make ghostObject transparent and fixed
             ghostObject = Instantiate(gameObject);
+            ghostObject.transform.position = positionDefault;
+            ghostObject.transform.rotation = rotationDefault;
             ghostObject.GetComponent<Reference>().SetGhostStatus(true);
             ghostObject.GetComponent<Reference>().isAssemblyPart = false;
             ghostObject.GetComponent<Renderer>().material = Resources.Load("Ghost") as Material; // TODO: avoiding the Resources folder might help with performance
             ghostObject.GetComponent<MeshCollider>().enabled = false;
-            ghostObject.transform.position = new Vector3(0, 0, 0);
-            ghostObject.transform.rotation = new Quaternion(0, 0, 0, 0);
+            
             ghostObject.transform.localScale = new Vector3(1f,1f,1f);
         }
 

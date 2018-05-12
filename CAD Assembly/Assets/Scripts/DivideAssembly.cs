@@ -47,16 +47,19 @@ public class DivideAssembly : MonoBehaviour {
                     foreach (Transform subChild in child)
                     {
                         reparent.Add(subChild);
+                        subChild.position = child.position;
                         childObjects.Add(subChild.gameObject);
                     }
                 }
                 foreach (Transform child in transform)
                 {
+
                     unparent.Add(child);
                     Destroy(child.gameObject);
                 }
                 foreach (Transform child in unparent)
                 {
+                    
                     child.parent = null;
                 }
             }
@@ -73,6 +76,8 @@ public class DivideAssembly : MonoBehaviour {
                     continue;
                 }
                 child.gameObject.AddComponent<Reference>();
+                child.gameObject.GetComponent<Reference>().positionDefault = child.position;
+                child.gameObject.GetComponent<Reference>().rotationDefault = child.rotation;
                 child.gameObject.AddComponent<MeshCollider>();
                 child.gameObject.AddComponent<GrabbedItem>();
                 child.gameObject.GetComponent<MeshCollider>().sharedMesh = child.GetComponent<MeshFilter>().mesh;
